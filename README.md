@@ -10,7 +10,6 @@ A simple fire detection system using Arduino Uno and a flame sensor. When fire i
 * Arduino Uno
 * Flame Sensor
 * Buzzer
-* LED + 220Ω resistor
 * Breadboard & jumper wires
 
 ---
@@ -23,9 +22,11 @@ The flame sensor detects fire and sends a signal to Arduino. Arduino then turns 
 
 ##  Pin Connections
 
-* Flame Sensor OUT → Pin 7
-* Buzzer → Pin 8
-* LED → Pin 9
+* Sensor VCC → 5V
+* Sensor GND → GND
+* Sensor D0 → D2
+* Buzzer + → D8
+* Buzzer − → GND
 
 ---
 
