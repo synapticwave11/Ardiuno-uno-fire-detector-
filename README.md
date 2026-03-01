@@ -37,6 +37,9 @@ The flame sensor detects fire and sends a signal to Arduino. Arduino then turns 
 3. Power the Arduino
 4. Fire detected → buzzer and LED turn ON
 
+ project progress will be uploaded shortly
+ 
+
 ---
 
 
