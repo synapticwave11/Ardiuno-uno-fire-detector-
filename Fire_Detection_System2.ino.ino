@@ -1,5 +1,4 @@
 
-
 int flamePin = 2;     // connect sensor D0 to Arduino pin 2
 int buzzerPin = 8;    // connect buzzer + to Arduino pin 8
 
